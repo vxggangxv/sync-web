@@ -1,0 +1,12 @@
+{
+  "extends": ["airbnb-base", "plugin:prettier/recommended"],
+  "parser": "babel-eslint",
+  "rules": {
+    "no-var": "warn",
+    "no-unused-vars": "off",
+    "no-empty": "off",
+    "prefer-const": "off",
+    "react/react-in-jsx-scope": "off",
+    "react-hooks/rules-of-hooks": "off"
+  }
+}

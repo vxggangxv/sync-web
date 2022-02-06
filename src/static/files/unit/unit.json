@@ -1,0 +1,2345 @@
+{
+  "ANTOMIC_CROWN": {
+    "name": "Antomic crown",
+    "ZIRCONIA": {
+      "name": "Zirconia",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "ZIRCONIA_MULTILAYER": {
+      "name": "Zirconia Multilayer",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "ACRYLIC/PMMA": {
+      "name": "Acrylic/PMMA",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "WAX": {
+      "name": "WAX",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "NP_METAL_": {
+      "name": "NP Metal ",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "TITANIUM": {
+      "name": "Titanium",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "LITHIUM_DISILICATE": {
+      "name": "Lithium Disilicate",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "LITHIUM_SILICATE": {
+      "name": "Lithium Silicate",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "COMPOSITE": {
+      "name": "Composite",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "HYBRID_CERAMIC": {
+      "name": "Hybrid Ceramic",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "GLASS_CERAMIC": {
+      "name": "Glass Ceramic",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "FELDSPAR": {
+      "name": "Feldspar",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    }
+  },
+  "COPING": {
+    "name": "Coping",
+    "ZIRCONIA": {
+      "name": "Zirconia",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "ZIRCONIA_MULTILAYER": {
+      "name": "Zirconia Multilayer",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "ACRYLIC/PMMA": {
+      "name": "Acrylic/PMMA",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "WAX": {
+      "name": "WAX",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "NP_METAL_": {
+      "name": "NP Metal ",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "TITANIUM": {
+      "name": "Titanium",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "LITHIUM_DISILICATE": {
+      "name": "Lithium Disilicate",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "LITHIUM_SILICATE": {
+      "name": "Lithium Silicate",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "COMPOSITE": {
+      "name": "Composite",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "HYBRID_CERAMIC": {
+      "name": "Hybrid Ceramic",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "GLASS_CERAMIC": {
+      "name": "Glass Ceramic",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "FELDSPAR": {
+      "name": "Feldspar",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    }
+  },
+  "PRESSED_CROWN": {
+    "name": "Pressed crown",
+    "ZIRCONIA": {
+      "name": "Zirconia",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "ZIRCONIA_MULTILAYER": {
+      "name": "Zirconia Multilayer",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "ACRYLIC/PMMA": {
+      "name": "Acrylic/PMMA",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "WAX": {
+      "name": "WAX",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "NP_METAL_": {
+      "name": "NP Metal ",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "TITANIUM": {
+      "name": "Titanium",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "LITHIUM_DISILICATE": {
+      "name": "Lithium Disilicate",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "LITHIUM_SILICATE": {
+      "name": "Lithium Silicate",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "COMPOSITE": {
+      "name": "Composite",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "HYBRID_CERAMIC": {
+      "name": "Hybrid Ceramic",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "GLASS_CERAMIC": {
+      "name": "Glass Ceramic",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "FELDSPAR": {
+      "name": "Feldspar",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    }
+  },
+  "PROVISIONAL_CROWN": {
+    "name": "Provisional crown",
+    "ACRYLIC/PMMA": {
+      "name": "Acrylic/PMMA",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "COMPOSITE": {
+      "name": "Composite",
+      "NONE": {
+        "name": "None"
+      }
+    }
+  },
+  "OFFSET_COPING": {
+    "name": "Offset coping",
+    "ZIRCONIA": {
+      "name": "Zirconia",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "ZIRCONIA_MULTILAYER": {
+      "name": "Zirconia Multilayer",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "ACRYLIC/PMMA": {
+      "name": "Acrylic/PMMA",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "WAX": {
+      "name": "WAX",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "NP_METAL_": {
+      "name": "NP Metal ",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "TITANIUM": {
+      "name": "Titanium",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "LITHIUM_DISILICATE": {
+      "name": "Lithium Disilicate",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "LITHIUM_SILICATE": {
+      "name": "Lithium Silicate",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "COMPOSITE": {
+      "name": "Composite",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "HYBRID_CERAMIC": {
+      "name": "Hybrid Ceramic",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "GLASS_CERAMIC": {
+      "name": "Glass Ceramic",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "FELDSPAR": {
+      "name": "Feldspar",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    }
+  },
+  "MOCKUP": {
+    "name": "Mockup",
+    "ZIRCONIA": {
+      "name": "Zirconia",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "ZIRCONIA_MULTILAYER": {
+      "name": "Zirconia Multilayer",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "ACRYLIC/PMMA": {
+      "name": "Acrylic/PMMA",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "WAX": {
+      "name": "WAX",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "LITHIUM_DISILICATE": {
+      "name": "Lithium Disilicate",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "LITHIUM_SILICATE": {
+      "name": "Lithium Silicate",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "COMPOSITE": {
+      "name": "Composite",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "HYBRID_CERAMIC": {
+      "name": "Hybrid Ceramic",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "GLASS_CERAMIC": {
+      "name": "Glass Ceramic",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "FELDSPAR": {
+      "name": "Feldspar",
+      "NONE": {
+        "name": "None"
+      }
+    }
+  },
+  "ANTOMIC_PONTIC": {
+    "name": "Antomic Pontic",
+    "ZIRCONIA": {
+      "name": "Zirconia",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "ZIRCONIA_MULTILAYER": {
+      "name": "Zirconia Multilayer",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "ACRYLIC/PMMA": {
+      "name": "Acrylic/PMMA",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "WAX": {
+      "name": "WAX",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "NP_METAL_": {
+      "name": "NP Metal ",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "TITANIUM": {
+      "name": "Titanium",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "LITHIUM_DISILICATE": {
+      "name": "Lithium Disilicate",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "COMPOSITE": {
+      "name": "Composite",
+      "NONE": {
+        "name": "None"
+      }
+    }
+  },
+  "REDUCED_PONTIC": {
+    "name": "Reduced pontic",
+    "ZIRCONIA": {
+      "name": "Zirconia",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "ZIRCONIA_MULTILAYER": {
+      "name": "Zirconia Multilayer",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "ACRYLIC/PMMA": {
+      "name": "Acrylic/PMMA",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "WAX": {
+      "name": "WAX",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "NP_METAL_": {
+      "name": "NP Metal ",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "TITANIUM": {
+      "name": "Titanium",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "LITHIUM_DISILICATE": {
+      "name": "Lithium Disilicate",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "COMPOSITE": {
+      "name": "Composite",
+      "NONE": {
+        "name": "None"
+      }
+    }
+  },
+  "PRESSED_PONTIC": {
+    "name": "Pressed pontic",
+    "ZIRCONIA": {
+      "name": "Zirconia",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "ZIRCONIA_MULTILAYER": {
+      "name": "Zirconia Multilayer",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "ACRYLIC/PMMA": {
+      "name": "Acrylic/PMMA",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "WAX": {
+      "name": "WAX",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "NP_METAL_": {
+      "name": "NP Metal ",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "TITANIUM": {
+      "name": "Titanium",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "LITHIUM_DISILICATE": {
+      "name": "Lithium Disilicate",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "COMPOSITE": {
+      "name": "Composite",
+      "NONE": {
+        "name": "None"
+      }
+    }
+  },
+  "PROVISIONAL_PONTIC": {
+    "name": "Provisional pontic",
+    "ACRYLIC/PMMA": {
+      "name": "Acrylic/PMMA",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "COMPOSITE": {
+      "name": "Composite",
+      "NONE": {
+        "name": "None"
+      }
+    }
+  },
+  "INLAY/ONLAY": {
+    "name": "Inlay/Onlay",
+    "ZIRCONIA": {
+      "name": "Zirconia",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "ZIRCONIA_MULTILAYER": {
+      "name": "Zirconia Multilayer",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "ACRYLIC/PMMA": {
+      "name": "Acrylic/PMMA",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "WAX": {
+      "name": "WAX",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "NP_METAL_": {
+      "name": "NP Metal ",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "TITANIUM": {
+      "name": "Titanium",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "LITHIUM_DISILICATE": {
+      "name": "Lithium Disilicate",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "LITHIUM_SILICATE": {
+      "name": "Lithium Silicate",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "COMPOSITE": {
+      "name": "Composite",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "HYBRID_CERAMIC": {
+      "name": "Hybrid Ceramic",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "GLASS_CERAMIC": {
+      "name": "Glass Ceramic",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "FELDSPAR": {
+      "name": "Feldspar",
+      "NONE": {
+        "name": "None"
+      }
+    }
+  },
+  "OFFSET_INLAY": {
+    "name": "Offset inlay",
+    "ZIRCONIA": {
+      "name": "Zirconia",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "ZIRCONIA_MULTILAYER": {
+      "name": "Zirconia Multilayer",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "ACRYLIC/PMMA": {
+      "name": "Acrylic/PMMA",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "WAX": {
+      "name": "WAX",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "NP_METAL_": {
+      "name": "NP Metal ",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "TITANIUM": {
+      "name": "Titanium",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "LITHIUM_DISILICATE": {
+      "name": "Lithium Disilicate",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "LITHIUM_SILICATE": {
+      "name": "Lithium Silicate",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "COMPOSITE": {
+      "name": "Composite",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "HYBRID_CERAMIC": {
+      "name": "Hybrid Ceramic",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "GLASS_CERAMIC": {
+      "name": "Glass Ceramic",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "FELDSPAR": {
+      "name": "Feldspar",
+      "NONE": {
+        "name": "None"
+      }
+    }
+  },
+  "VENEER": {
+    "name": "Veneer",
+    "ZIRCONIA": {
+      "name": "Zirconia",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "ZIRCONIA_MULTILAYER": {
+      "name": "Zirconia Multilayer",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "ACRYLIC/PMMA": {
+      "name": "Acrylic/PMMA",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "WAX": {
+      "name": "WAX",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "LITHIUM_DISILICATE": {
+      "name": "Lithium Disilicate",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "LITHIUM_SILICATE": {
+      "name": "Lithium Silicate",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "COMPOSITE": {
+      "name": "Composite",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "HYBRID_CERAMIC": {
+      "name": "Hybrid Ceramic",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "GLASS_CERAMIC": {
+      "name": "Glass Ceramic",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "FELDSPAR": {
+      "name": "Feldspar",
+      "NONE": {
+        "name": "None"
+      }
+    }
+  },
+  "ANATOMIC_WAXUP": {
+    "name": "Anatomic waxup",
+    "ZIRCONIA": {
+      "name": "Zirconia",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "ZIRCONIA_MULTILAYER": {
+      "name": "Zirconia Multilayer",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "ACRYLIC/PMMA": {
+      "name": "Acrylic/PMMA",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "WAX": {
+      "name": "WAX",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "NP_METAL_": {
+      "name": "NP Metal ",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "TITANIUM": {
+      "name": "Titanium",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "LITHIUM_DISILICATE": {
+      "name": "Lithium Disilicate",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "LITHIUM_SILICATE": {
+      "name": "Lithium Silicate",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "COMPOSITE": {
+      "name": "Composite",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "HYBRID_CERAMIC": {
+      "name": "Hybrid Ceramic",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "GLASS_CERAMIC": {
+      "name": "Glass Ceramic",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "FELDSPAR": {
+      "name": "Feldspar",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    }
+  },
+  "REDUCED_WAXUP": {
+    "name": "Reduced waxup",
+    "ZIRCONIA": {
+      "name": "Zirconia",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "ZIRCONIA_MULTILAYER": {
+      "name": "Zirconia Multilayer",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "ACRYLIC/PMMA": {
+      "name": "Acrylic/PMMA",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "WAX": {
+      "name": "WAX",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "NP_METAL_": {
+      "name": "NP Metal ",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "TITANIUM": {
+      "name": "Titanium",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "LITHIUM_DISILICATE": {
+      "name": "Lithium Disilicate",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "LITHIUM_SILICATE": {
+      "name": "Lithium Silicate",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "COMPOSITE": {
+      "name": "Composite",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "HYBRID_CERAMIC": {
+      "name": "Hybrid Ceramic",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "GLASS_CERAMIC": {
+      "name": "Glass Ceramic",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "FELDSPAR": {
+      "name": "Feldspar",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    }
+  },
+  "PONTIC_WAXUP": {
+    "name": "Pontic waxup",
+    "ZIRCONIA": {
+      "name": "Zirconia",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "ZIRCONIA_MULTILAYER": {
+      "name": "Zirconia Multilayer",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "ACRYLIC/PMMA": {
+      "name": "Acrylic/PMMA",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "WAX": {
+      "name": "WAX",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "NP_METAL_": {
+      "name": "NP Metal ",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "TITANIUM": {
+      "name": "Titanium",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "LITHIUM_DISILICATE": {
+      "name": "Lithium Disilicate",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "COMPOSITE": {
+      "name": "Composite",
+      "NONE": {
+        "name": "None"
+      }
+    }
+  },
+  "FULL_DENTURE": {
+    "name": "Full denture",
+    "PRINT_BASE": {
+      "name": "Print Base",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "PRINT_BASE_&_TEETH": {
+      "name": "Print Base & Teeth",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "MILL_BASE": {
+      "name": "Mill Base",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "MILL_BSSE,_TRIM_TEETH": {
+      "name": "Mill Bsse, Trim Teeth",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "MILL_BASE_&_TEETH": {
+      "name": "Mill Base & Teeth",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "PRINT_BASE,_MILL_TEETH": {
+      "name": "Print Base, Mill Teeth",
+      "NONE": {
+        "name": "None"
+      }
+    }
+  },
+  "PARTIAL_DENTURE": {
+    "name": "Partial denture",
+    "ACRYLIC/PMMA": {
+      "name": "Acrylic/PMMA",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "WAX": {
+      "name": "WAX",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "NP_METAL_": {
+      "name": "NP Metal ",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "TITANIUM": {
+      "name": "Titanium",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "NP_METAL(LASER)": {
+      "name": "NP Metal(Laser)",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "3D_PRINT": {
+      "name": "3D Print",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "PEEK": {
+      "name": "PEEK",
+      "NONE": {
+        "name": "None"
+      }
+    }
+  },
+  "BITE_SPLINT": {
+    "name": "Bite splint",
+    "3D_PRINT": {
+      "name": "3D Print",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "ACRYLIC/PMMA": {
+      "name": "Acrylic/PMMA",
+      "NONE": {
+        "name": "None"
+      }
+    }
+  },
+  "PRIMARY_TELESCOPIC_CROWN": {
+    "name": "Primary telescopic crown",
+    "ZIRCONIA": {
+      "name": "Zirconia",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "ZIRCONIA_MULTILAYER": {
+      "name": "Zirconia Multilayer",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "ACRYLIC/PMMA": {
+      "name": "Acrylic/PMMA",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "WAX": {
+      "name": "WAX",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "NP_METAL_": {
+      "name": "NP Metal ",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "TITANIUM": {
+      "name": "Titanium",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "COMPOSITE": {
+      "name": "Composite",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "PEEK": {
+      "name": "PEEK",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    }
+  },
+  "SECONDARY_TELESCOPIC_CROWN": {
+    "name": "Secondary telescopic crown",
+    "ACRYLIC/PMMA": {
+      "name": "Acrylic/PMMA",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "WAX": {
+      "name": "WAX",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "NP_METAL_": {
+      "name": "NP Metal ",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "TITANIUM": {
+      "name": "Titanium",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "COMPOSITE": {
+      "name": "Composite",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "PEEK": {
+      "name": "PEEK",
+      "NONE": {
+        "name": "None"
+      }
+    }
+  },
+  "ATTACHMENT": {
+    "name": "Attachment",
+    "ZIRCONIA": {
+      "name": "Zirconia",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "ZIRCONIA_MULTILAYER": {
+      "name": "Zirconia Multilayer",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "ACRYLIC/PMMA": {
+      "name": "Acrylic/PMMA",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "WAX": {
+      "name": "WAX",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "NP_METAL_": {
+      "name": "NP Metal ",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "TITANIUM": {
+      "name": "Titanium",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "COMPOSITE": {
+      "name": "Composite",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "PEEK": {
+      "name": "PEEK",
+      "NONE": {
+        "name": "None"
+      }
+    }
+  },
+  "BAR_PILLAR": {
+    "name": "Bar pillar",
+    "ZIRCONIA": {
+      "name": "Zirconia",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "ACRYLIC/PMMA": {
+      "name": "Acrylic/PMMA",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "WAX": {
+      "name": "WAX",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "NP_METAL_": {
+      "name": "NP Metal ",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "TITANIUM": {
+      "name": "Titanium",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    },
+    "PEEK": {
+      "name": "PEEK",
+      "NONE": {
+        "name": "None"
+      },
+      "CUSTOM_ABUTMENT": {
+        "name": "Custom Abutment"
+      },
+      "SCREW_RETAINED": {
+        "name": "Screw retained"
+      },
+      "ON_SUBSTRUCTURE": {
+        "name": "On substructure"
+      },
+      "ON_ABUTMENT": {
+        "name": "On Abutment"
+      }
+    }
+  },
+  "BAR_SEGMENT": {
+    "name": "Bar segment",
+    "ZIRCONIA": {
+      "name": "Zirconia",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "ACRYLIC/PMMA": {
+      "name": "Acrylic/PMMA",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "WAX": {
+      "name": "WAX",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "NP_METAL_": {
+      "name": "NP Metal ",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "TITANIUM": {
+      "name": "Titanium",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "PEEK": {
+      "name": "PEEK",
+      "NONE": {
+        "name": "None"
+      }
+    }
+  },
+  "OFFSET_SUBSTRUCTURE": {
+    "name": "Offset substructure",
+    "ACRYLIC/PMMA": {
+      "name": "Acrylic/PMMA",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "WAX": {
+      "name": "WAX",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "NP_METAL_": {
+      "name": "NP Metal ",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "TITANIUM": {
+      "name": "Titanium",
+      "NONE": {
+        "name": "None"
+      }
+    },
+    "PEEK": {
+      "name": "PEEK",
+      "NONE": {
+        "name": "None"
+      }
+    }
+  }
+}

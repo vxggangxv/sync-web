@@ -1,0 +1,80 @@
+알람 리스트
+
+프로젝트
+새로운 프로젝트가 도착했습니다. 
+프로젝트가 업데이트 되었습니다. - 파일 업로드, 메시지 전송 등 프로젝트에 변동 사항이 있는 경우
+파트너가 프로젝트를 수락했습니다.
+파트너가 프로젝트를 거절했습니다.
+
+파트너
+파트너 요청이 도착했습니다.
+'파트너 네임'이 파트너 요청을 수락했습니다.
+'파트너 네임'이 파트너 요청을 거절했습니다.
+
+계정
+데이터 용량이 50% 남았습니다.
+데이터 용량이 30% 남았습니다. 
+데이터 용량이 10% 남았습니다.
+'제품' 워런티 기간이 한달 남았습니다.
+'제품' 워런티 기간이 끝났습니다.
+'프로젝트' 프로젝트 관련 알림 내용.
+
+
+골드 사용 내역 로그 내용
+변경 일자, 프로젝트 이름(파트너 페이지에서 수정하는 경우에는 공란), 수정한 직원
+골드 타입 / 총량 / 사용량 / 소모량 / 잔량 / 반납
+
+ex
+2021-10-19, Single cr X3, Edwin
+PT type / 20.00g / 6.10g / 0.90g / 13.00g / 0.00g
+
+- translation mapping / param1, param2
+notificationType: {
+  newProjectArrival: 'NEW_PROJECT_ARRIVAL',
+  projectUpdate: 'PROJECT_UPDATE',
+  projectAccept: 'PROJECT_ACCEPT',
+  projectReject: 'PROJECT_REJECT',
+  newPartnerReq: 'NEW_PARTNER_REQ',
+  partnerAccept: 'PARTNER_ACCEPT',  
+  partnerReject: 'PARTNER_REJECT',  
+  dataRemainFiftyPer: 'DATA_REMAIN_FIFTY_PER',
+  dataRemainThirtyPer: 'DATA_REMAIN_THIRTY_PER',
+  dataRemainTenPer: 'DATA_REMAIN_TEN_PER',
+  warrantyRemainOneMon: 'WARRANTY_REMAIN_ONE_MON',  
+  warrantyEnd: 'WARRANTY_END' 
+}
+
+// electron api 연결
+const { ipcRenderer } = window.require("electron");
+const { ipcRenderer } = window;
+ipcRenderer.send('name', data);
+
+notificationTitle: {
+  // 프로젝트 관련
+  PROJECT_CREATE: '프로젝트 생성',
+  PROJECT_UPDATE: '프로젝트 업데이트',
+  PROJECT_PREPARATION: '프로젝트 PREPARATION 단계',
+  PROJECT_SCAN: '프로젝트 SCAN 단계',
+  PROJECT_CAD: '프로젝트 CAD 단계',
+  PROJECT_CAM: '프로젝트 CAM 단계',
+  PROJECT_MILLING: '프로젝트 MILLING 단계',
+  PROJECT_POST_PROCESSING: '프로젝트 POST PROCESSING 단계',
+  PROJECT_COMPLETE: '프로젝트 완료',
+  PROJECT_ACCEPT: '프로젝트 수락',
+  PROJECT_REJECT: '프로젝트 거절',
+  GOLD_MODIFY: '골드 수정',
+  FILE_UPLOAD: '파일 업로드',
+  FILE_DOWNLOAD: '파일 다운로드',
+  FILE_DELETE: '파일 삭제',
+  // 파트너십 관련
+  NEW_PARTNER_REQ: '파트너 요청 도착',
+  PARTNER_ACCEPT: '파트너 요청 수락',
+  PARTNER_REJECT: '파트너 요청 거절',
+  // 스토어 관련
+  DATA_REMAIN_FIFTY_PER: '데이터 용량 50% 남음',
+  DATA_REMAIN_THIRTY_PER: '데이터 용량 30% 남음',
+  DATA_REMAIN_TEN_PER: '데이터 용량 10% 남음',
+  WARRANTY_REMAIN_ONE_MON: '워런티 1달 남음',
+  WARRANTY_END: '워런티 종료',
+  APP_UPDATE_COMPLETE: '어플리케이션 업데이트 완료',
+},
