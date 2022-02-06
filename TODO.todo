@@ -1,0 +1,67 @@
+DOFSyncWeb.v2: @est-total(2021-00-00 ~ 2021-00-00)
+  Todo: 
+    ☐ Project - SyncFileModal, 수정 후 개발 완료 예정 @doneAfter
+    ☐ DashboardPage 변경 UI 개발
+    // 20211026
+    ☐ Project - CompoleltedModal - modify 기능 추가, 확정 후 개발 완료 예정 @doneAfter
+    ✔ Notifications page @done(21-11-04 15:26)
+    ☐ 20211110 ~ 2021(23/30) 중지 : Bridge 재 오픈 준비
+    ☐ Project UI 변경
+    ☐ Project Teeth, CreateProject, ProjectDetail @started(22-01-04 19:23)
+    410749c3025cd799a9a3425f1b36dd1c
+    ☐ ProjectUploadContainer - ModelViewer : explorer file viewer적용 테스트
+    ✔ - @working CreateProject, TeethTable 새 옵션 추가 @done(22-01-14 18:27)
+    ✔ - @working ProjectListModal data mapping, reworkProjectCode mapping @done(22-01-14 18:27)
+    ✔ CompleteProjectModal - Collapse 기능 적용, Summary UI 개발, expandBtn 개발 @working @done(22-01-18 15:35)
+    ✔ CreateProjectCOntainer - caseId _RE 적용 @done(22-01-19 15:36)
+    ✔ AppNavTab - New 이벤트 표시 @done(22-01-19 15:36)
+    ☐ ProjectContactContainer - ProjectChat, ProjectHistory
+    ☐ ProjectUpload - to group, to partner 작동 적용 
+      - sync partner api 생성 대기중, sync partner(userGroupIdx, shareFileList: [ ...cloudDataIdx ]) @high
+      ✔ url New FileReader로 파일 읽은 후 가지고 있기(재요청 안한후 그룹 파일 보여주기) 테스트, bridge에서 먼저 @done(22-01-21 16:07)
+      ✔ html 파일의 경우 set viewHtmlFile 됐을 경우 다운로드 일어남. 확인 필요 -> responseType: 'text' iframe.srdoc 로 해결 @high @done(22-01-24 11:34)
+    ☐ Invoice api 연동 @working
+    ✔ Notifications api 연동 @done(22-01-24 15:21)
+    ✔ search Input & infinite data fetching select 개발 @done(22-01-14 18:29)
+    ☐ Dashboard page - Sales(Partners 별도 store연결 추가), MyProduct, Projects api 연동 필요 @wait
+    ☐ Notifications - partner accept,reject -> delete 
+    ☐ Project sync partner 나자신 제거
+    // 2022.01.26.wen - Meeting
+    ☐ Local Explorer의 파일도 FileViewer 연동
+  Pending: 
+    ☐ CustomButtonGroup 개발 필요 확인 - O
+Archive:
+  ✔ Invoce 페이지 - InvoiceList, InvoiceViewer 개발 - view toggle @doneAfter @done(21-10-26 14:49) @project(DOFSyncWeb.v2.Todo)
+  ✔ AppNav 변경 시안 적용 @done(21-09-03 16:05) @project(DOFSyncWeb.v2.Todo)
+  ✔ CreateProject @done(21-09-03 16:05) @project(DOFSyncWeb.v2.Todo)
+    information form, state 개발
+    details(teeth, form): teeth 기존 기능 개선, 
+    mouse right click을 해도 해당 위치에 맞는 값이 작동되도록(tooth위치에서 하면 해당 contextMenuList 활성화, bridge위치에서 하면 비활성화)
+    mouse lift click을 하면 ContextMenu 사라짐
+  ✔ CreateProject teeth form type check @done(21-09-03 16:04) @project(DOFSyncWeb.v2.Todo)
+  ✔ Modal Template 개발 @done(21-09-06 15:15) @project(DOFSyncWeb.v2.Todo)
+  ✔ ProjectList UI 개발 @started(21-09-06 15:35) @done(21-09-08 19:34) @lasted(2d3h59m17s) @project(DOFSyncWeb.v2.Todo)
+  ✔ ProjectListModal 개발 - Card Gradient @started(21-09-08 19:34) @done(21-09-10 10:45) @lasted(1d15h11m15s) @project(DOFSyncWeb.v2.Todo)
+  ✔ StageTimeLine 개발 @done(21-10-26 12:33) @project(DOFSyncWeb.v2.Todo)
+    todo current color blue 
+  ✔ ProjectDetailInformation 개발 @done(21-10-07 19:13) @project(DOFSyncWeb.v2.Todo)
+  ✔ Teeth keyboard function @done(21-10-07 19:12) @project(DOFSyncWeb.v2.Todo)
+  ✔ ModelViewer - multiple loading, material side @done(21-10-07 19:12) @project(DOFSyncWeb.v2.Todo)
+  ✔ ProjectChat 개발중 @started(21-10-07 19:13) @done(21-10-18 18:36) @lasted(1w3d23h23m44s) @project(DOFSyncWeb.v2.Todo)
+  ✔ Project - GoldStatusModal @done(21-10-18 18:36) @project(DOFSyncWeb.v2.Todo)
+  ✔ Project - ProjectChat @done(21-10-18 18:36) @project(DOFSyncWeb.v2.Todo)
+  ✔ Project - ProjectUpload @done(21-10-18 18:36) @project(DOFSyncWeb.v2.Todo)
+  ✔ StageTimeLine 변경 개발 @done(21-10-18 18:37) @project(DOFSyncWeb.v2.Todo)
+  ✔ Sync button click -> agreement modal open @done(21-10-18 12:32) @project(DOFSyncWeb.v2.Todo)
+  ✔ AppNavIcon 적용 @done(21-10-18 12:33) @project(DOFSyncWeb.v2.Todo)
+  ✔ react to pdf download test @done(21-10-26 12:33) @project(DOFSyncWeb.v2.Todo)
+  ✔ Total project status chart 개발 @done(21-09-03 16:04) @project(DOFSyncWeb.v2.Done)
+  ✔ My Products tab별 chart 개발 @done(21-09-03 16:04) @project(DOFSyncWeb.v2.Done)
+    : tab, tabpanel
+    : Donut, ProgressBar chart
+  ✔ New projects, Notification, My Partner, Product Manual, News Slider @done(21-09-03 16:04) @project(DOFSyncWeb.v2.Done)
+  ✔ 연구노트 작성 @done(21-09-03 16:04) @project(DOFSyncWeb.v2.Done)
+  ✔ Product Manual download click action @done(21-09-03 16:04) @project(DOFSyncWeb.v2.Done)
+  ✔ TODO api연동 작성 @done(21-09-03 16:04) @project(DOFSyncWeb.v2.Done)
+  ✔ AppNav minHeight 적용 @done(21-09-03 16:04) @project(DOFSyncWeb.v2.Done)
+  ✔ TotalProjectStatus chart 변경(날짜 이전, 이후 기능) 기획 확인 -> 변경 @done(21-09-03 16:04) @project(DOFSyncWeb.v2.Question)
