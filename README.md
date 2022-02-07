@@ -7,4 +7,4 @@
 
     - (https://github.com/vxggangxv/sync-web/blob/master/src/containers/dashboard/)
     - (https://github.com/vxggangxv/sync-web/blob/master/src/components/dashboard/)
-<img src="https://raw.githubusercontent.com/vxggangxv/portfolio-react/master/public/img/portfolio/sync-web/sync_dashboard.jpg" />
+    - <img src="https://raw.githubusercontent.com/vxggangxv/portfolio-react/master/public/img/portfolio/sync-web/sync_dashboard.jpg" />
